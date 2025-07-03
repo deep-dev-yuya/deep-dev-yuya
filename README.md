@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuya Hasegawa
+# 👋 Hi, I'm Yuya
 
 AI・自動化・知識整理を軸に、日々の業務や生活を効率化しています。  
 現在は Obsidian と n8n を中心に、自分の知的作業の最適化を進めています。
