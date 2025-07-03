@@ -10,7 +10,7 @@ AI・自動化・知識整理を軸に、日々の業務や生活を効率化し
 - **Automation**: n8n（Docker運用・LINE通知・Gmail連携など）
 - **Knowledge Base**: Obsidian（Zettelkasten構造・Git連携）
 - **Programming**: Python（スクリプト・CLIツール・学習中）
-- **Others**: Git / GitHub / Markdown / AppleScript / VSCode / PyCharm
+- **Others**: Git / GitHub / Markdown /  PyCharm
 
 ---
 
