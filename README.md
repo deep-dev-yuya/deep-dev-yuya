@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuya
+# 👋 Hi, I'm Yuya Hasegawa
 
 AI・自動化・知識整理を軸に、日々の業務や生活を効率化しています。  
 現在は Obsidian と n8n を中心に、自分の知的作業の最適化を進めています。
@@ -31,6 +31,10 @@ AI・自動化・知識整理を軸に、日々の業務や生活を効率化し
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-dev-yuya&show_icons=true&theme=default)
 
 ---
+
+## 🌱 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deep-dev-yuya&theme=github)
 
 ## 🧩 開発スタイル
 
